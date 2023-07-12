@@ -1,0 +1,2 @@
+../source/Sensor_Temp.c:4:6:Sensor_Temp_Setup	8	static
+../source/Sensor_Temp.c:10:10:Sensor_Temp_Read	8	static

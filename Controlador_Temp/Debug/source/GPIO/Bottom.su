@@ -1,0 +1,5 @@
+/home/david/micro/micro-workspace/Controlador_Temp/CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+../source/GPIO/Bottom.c:9:6:PORTA_IRQHandler	8	static
+../source/GPIO/Bottom.c:27:6:Configura_CLK_Bottom	8	static
+../source/GPIO/Bottom.c:43:5:Bottom_Ativado	8	static
+../source/GPIO/Bottom.c:49:6:Desabilita_Bottom	8	static

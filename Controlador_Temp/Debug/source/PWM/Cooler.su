@@ -1,0 +1,5 @@
+../source/PWM/Cooler.c:7:6:PWM_Write	16	static
+../source/PWM/Cooler.c:11:6:PWM_SETUP	8	static
+../source/PWM/Cooler.c:24:6:Liga_Cooler	8	static
+../source/PWM/Cooler.c:28:6:Desliga_Cooler	8	static
+../source/PWM/Cooler.c:31:6:Liga_Cooler_Controlado	8	static

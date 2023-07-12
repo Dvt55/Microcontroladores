@@ -1,0 +1,8 @@
+../source/GPIO/LED.c:8:6:Led_setup	8	static
+../source/GPIO/LED.c:14:6:Led_configure	8	static
+../source/GPIO/LED.c:24:6:Liga_led_vermelho	8	static
+../source/GPIO/LED.c:27:6:Desliga_led_vermelho	8	static
+../source/GPIO/LED.c:30:6:Liga_led_amarelo	8	static
+../source/GPIO/LED.c:33:6:Desliga_led_amarelo	8	static
+../source/GPIO/LED.c:36:6:Liga_led_verde	8	static
+../source/GPIO/LED.c:39:6:Desliga_led_verde	8	static

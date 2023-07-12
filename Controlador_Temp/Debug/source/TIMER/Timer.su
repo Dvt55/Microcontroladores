@@ -1,0 +1,2 @@
+../source/TIMER/Timer.c:4:6:TPM1_Init	8	static
+../source/TIMER/Timer.c:15:6:TPM1_IRQHandler	8	static
